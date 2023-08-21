@@ -9,7 +9,7 @@ I created this portfolio to use as my own but ended up doing something else enti
 
 ## Live Demo
 
-- Click [here](https://aftabdivan.github.io/aftabdivan-portfolio.github.io/) to view the live demo.
+- Click [here](https://aftabdivan.github.io/aftabdivan-portfolio/) to view the live demo.
 
 ## Getting Started
 
@@ -25,7 +25,7 @@ Make sure you have node `16.0.0` or higher and npm `9.0.0` or higher installed.
 - run the following [git](https://git-scm.com/) command to clone the files to your machine:
 
 ```
-git clone https://github.com/aftabdivan/aftabdivan-portfolio.github.io.git
+git clone https://github.com/aftabdivan/aftabdivan-portfolio.git
 ```
 ## Install
 
