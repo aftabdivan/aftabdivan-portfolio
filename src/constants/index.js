@@ -53,14 +53,14 @@ const services = [
     title: 'Backend Developer',
     icon: backend,
   },
-  // {
-  //   title: 'UI/UX Design',
-  //   icon: ux,
-  // },
-  // {
-  //   title: 'Software Prototyping',
-  //   icon: prototyping,
-  // },
+  {
+    title: 'UI/UX Design',
+    icon: ux,
+  },
+  {
+    title: 'Software Prototyping',
+    icon: prototyping,
+  },
 ];
 
 const technologies = [
@@ -76,10 +76,6 @@ const technologies = [
     name: 'JavaScript',
     icon: javascript,
   },
-  // {
-  //   name: 'TypeScript',
-  //   icon: typescript,
-  // },
   {
     name: 'React JS',
     icon: reactjs,
@@ -88,38 +84,18 @@ const technologies = [
     name: 'Redux Toolkit',
     icon: redux,
   },
-  // {
-  //   name: 'Tailwind CSS',
-  //   icon: tailwind,
-  // },
   {
     name: 'Node JS',
     icon: nodejs,
   },
-  // {
-  //   name: 'Rails',
-  //   icon: rubyrails,
-  // },
-  // {
-  //   name: 'graphql',
-  //   icon: graphql,
-  // },
-  // {
-  //   name: 'postgresql',
-  //   icon: postgresql,
-  // },
   {
     name: 'git',
     icon: git,
   },
-  // {
-  //   name: 'figma',
-  //   icon: figma,
-  // },
-  // {
-  //   name: 'docker',
-  //   icon: docker,
-  // },
+  {
+    name: 'figma',
+    icon: figma,
+  },
 ];
 
 const experiences = [
@@ -219,7 +195,7 @@ const projects = [
 			},
 		],
 		image: math,
-		repo: "https://github.com/shaqdeff/Math-Magicians",
+		repo: "#",
 		demo: "https://inspiring-medovik-37d3b3.netlify.app/",
 	},
 	{
@@ -241,7 +217,7 @@ const projects = [
 			},
 		],
 		image: movie,
-		repo: "https://github.com/shaqdeff/Movie-Metro",
+		repo: "#",
 		demo: "https://movie-metro.netlify.app/",
 	},
 	{
