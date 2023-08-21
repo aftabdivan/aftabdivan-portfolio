@@ -195,7 +195,7 @@ const projects = [
 			},
 		],
 		image: math,
-		repo: "#",
+		repo: "https://github.com/aftabdivan",
 		demo: "https://inspiring-medovik-37d3b3.netlify.app/",
 	},
 	{
@@ -217,7 +217,7 @@ const projects = [
 			},
 		],
 		image: movie,
-		repo: "#",
+		repo: "https://github.com/aftabdivan",
 		demo: "https://movie-metro.netlify.app/",
 	},
 	{
