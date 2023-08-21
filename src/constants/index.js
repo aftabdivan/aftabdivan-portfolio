@@ -174,7 +174,7 @@ const projects = [
 			},
 		],
 		image: Buggati,
-		repo: "https://github.com/shaqdeff/KomiKult",
+		repo: "https://github.com/aftabdivan/stellar-wheels.github.io",
 		demo: "https://aftabdivan.github.io/stellar-wheels.github.io/",
 	},
 	{
@@ -197,8 +197,8 @@ const projects = [
 			},
 		],
 		image: leaderboard,
-		repo: "https://github.com/shaqdeff/Leaderboard",
-		demo: "https://shaqdeff.github.io/Leaderboard/",
+		repo: "https://github.com/aftabdivan/Leaderboard.github.io",
+		demo: "https://aftabdivan.github.io/Leaderboard.github.io/",
 	},
 	{
 		id: "project-3",
