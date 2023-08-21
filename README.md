@@ -27,13 +27,6 @@ Make sure you have node `16.0.0` or higher and npm `9.0.0` or higher installed.
 ```
 git clone https://github.com/aftabdivan/aftabdivan-portfolio.github.io.git
 ```
-
-- Once the files are on your machine, open the **Portfolio-Template** folder in [Visual Studio Code](https://code.visualstudio.com/download).
-
-```
-cd Portfolio-Template && code .
-```
-
 ## Install
 
 - After opening the files in Visual Studio Code, open the **VS Code** integrated terminal and run the following commands:
