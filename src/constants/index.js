@@ -197,8 +197,8 @@ const projects = [
 			},
 		],
 		image: leaderboard,
-		repo: "https://github.com/aftabdivan/Leaderboard.github.io",
-		demo: "https://aftabdivan.github.io/Leaderboard.github.io/",
+		repo: "https://github.com/aftabdivan/Leaderboard",
+		demo: "https://aftabdivan.github.io/Leaderboard/",
 	},
 	{
 		id: "project-3",
@@ -245,28 +245,27 @@ const projects = [
 		demo: "https://movie-metro.netlify.app/",
 	},
 	{
-		id: "project-5",
-		name: "Nyeusi Fest Site",
-		description:
-			"This is a demo concert website for a music festival called Nyeusi.",
+		id: 'project-5',
+		name: 'KomiKult',
+		description: 'A comic characters list app that displays Marvel characters.',
 		tags: [
-			{
-				name: "nextjs",
-				color: "blue-text-gradient",
-			},
-			{
-				name: "supabase",
-				color: "green-text-gradient",
-			},
-			{
-				name: "css",
-				color: "pink-text-gradient",
-			},
+		  {
+			name: 'react',
+			color: 'blue-text-gradient',
+		  },
+		  {
+			name: 'mongodb',
+			color: 'green-text-gradient',
+		  },
+		  {
+			name: 'tailwind',
+			color: 'pink-text-gradient',
+		  },
 		],
-		image: nyeusi,
-		repo: "https://github.com/shaqdeff/Nyeusi-Fest-Site",
-		demo: "https://shaqdeff.github.io/Nyeusi-Fest-Site/",
-	},
+		image: komikult,
+		repo: 'https://github.com/aftabdivan/Mosha-Travel.git',
+		demo: 'https://aftabdivan.github.io/Mosha-Travel/',
+	  },
 ];
 
 export { services, technologies, experiences, projects };
