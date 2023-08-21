@@ -1,0 +1,87 @@
+I created this portfolio to use as my own but ended up doing something else entirely. However, instead of keeping it buried, I decided to put it up here on GitHub as an open-source resource to help individuals to learn, adapt, and create their own portfolios. Feel free to customize and modify the theme and components to suit your personal style and branding preferences.
+
+## Built With
+
+- React.js
+- Three.js
+- Framer Motion
+- TailwindCSS
+
+## Live Demo
+
+- Click [here](https://aftabdivan.github.io/aftabdivan-portfolio.github.io/) to view the live demo.
+
+## Getting Started
+
+To get started with this portfolio template, follow these simple steps:
+
+### Prerequisites
+
+Make sure you have node `16.0.0` or higher and npm `9.0.0` or higher installed.
+
+### Setup
+
+- With git, clone the code to your machine.
+- run the following [git](https://git-scm.com/) command to clone the files to your machine:
+
+```
+git clone https://github.com/aftabdivan/aftabdivan-portfolio.github.io.git
+```
+
+- Once the files are on your machine, open the **Portfolio-Template** folder in [Visual Studio Code](https://code.visualstudio.com/download).
+
+```
+cd Portfolio-Template && code .
+```
+
+## Install
+
+- After opening the files in Visual Studio Code, open the **VS Code** integrated terminal and run the following commands:
+
+```
+npm install
+```
+
+This will install all the packages and dependencies used in the project.
+
+## Usage
+
+- Run the following command to start a local server:
+
+```
+npm run dev
+```
+
+This will open up the project on a browser on `http://localhost:5173/`
+
+## Build
+
+- To create a production build:
+
+```
+npm run build
+```
+
+- To preview the site as it will appear once deployed:
+
+```
+npm run preview
+```
+
+## Authors
+
+👤 **Aftab Divan**
+
+- GitHub: [@aftabdivan](https://github.com/aftabdivan)
+- Twitter: [@divanaftab](https://twitter.com/divanaftab)
+- LinkedIn: [Aftab Divan](https://www.linkedin.com/in/aftab-divan-39b9041bb)
+
+## Feedback and Contributions
+
+If you have any feedback, suggestions, or would like to contribute to this project, your involvement is highly valued. Feel free to open an [issue](../../issues/) or submit a pull request with your ideas and enhancements. Remember, this template is a starting point, and the true magic lies in making it your own. Enjoy the journey of creating a stunning portfolio that represents your unique talents and accomplishments!
+
+Happy coding and showcasing!
+
+## Show your support
+
+Give a ⭐️ if you like this project!
