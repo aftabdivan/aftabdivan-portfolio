@@ -150,8 +150,8 @@ const projects = [
 			},
 		],
 		image: Buggati,
-		repo: "https://github.com/aftabdivan/stellar-wheels.github.io",
-		demo: "https://aftabdivan.github.io/stellar-wheels.github.io/",
+		repo: "https://github.com/aftabdivan/stellar-wheels",
+		demo: "https://aftabdivan.github.io/stellar-wheels/",
 	},
 	{
 		id: "project-2",
@@ -195,7 +195,7 @@ const projects = [
 			},
 		],
 		image: math,
-		repo: "#",
+		repo: "https://github.com/aftabdivan",
 		demo: "https://inspiring-medovik-37d3b3.netlify.app/",
 	},
 	{
@@ -217,7 +217,7 @@ const projects = [
 			},
 		],
 		image: movie,
-		repo: "#",
+		repo: "https://github.com/aftabdivan",
 		demo: "https://movie-metro.netlify.app/",
 	},
 	{
