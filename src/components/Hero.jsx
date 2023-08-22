@@ -46,8 +46,8 @@ const Hero = () => {
 							</span>
 						</h1>
 						<p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
-							I am Fullstack Developer. <br className='sm:block hidden' />
-							I have good programming Knowledge in React and Node Js.
+							I am a dedicated MERN (MongoDB, Express.js, React,<br className='sm:block hidden' /> Node.js) stack developer with a passion for crafting<br className='sm:block hidden' /> dynamic and 
+							user-centric web applications.
 						</p>
 					</div>
 					<div

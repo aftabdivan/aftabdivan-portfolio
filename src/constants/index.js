@@ -150,8 +150,8 @@ const projects = [
 			},
 		],
 		image: Buggati,
-		repo: "https://github.com/aftabdivan/stellar-wheels.github.io",
-		demo: "https://aftabdivan.github.io/stellar-wheels.github.io/",
+		repo: "https://github.com/aftabdivan/stellar-wheels",
+		demo: "https://aftabdivan.github.io/stellar-wheels/",
 	},
 	{
 		id: "project-2",
